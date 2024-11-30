@@ -9,7 +9,7 @@
     "deploy": "vue-cli-service build && cd ../ && scp -r server root@118.25.94.60:/home/express-app-start/"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-preset-env": "^1.7.0",
     "core-js": "^3.6.4",
     "element-ui": "^2.13.0",
